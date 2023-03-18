@@ -68,11 +68,9 @@ See [NOTICE](./NOTICE) for further copyright and trademarks notices.
 ## References
 
 * TweakScale /L ([LisiasT](https://forum.kerbalspaceprogram.com/index.php?/profile/187168-lisias/))
+	+ [Homepage](http://ksp.lisias.net/add-ons/TweakScale) on L Aerospace
+	+ [Reddit](https://www.reddit.com/r/TweakScale/)
 	+ [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/179030-*/)
 	+ [CurseForge](https://kerbal.curseforge.com/projects/tweakscale)
 	+ [SpaceDock](https://spacedock.info/mod/127/TweakScale)
-	+ [Homepage](http://ksp.lisias.net/add-ons/TweakScale) on L Aerospace
-	+ [GitHub](https://github.com/net-lisias-ksp/TweakScale).
-* TweakScale Companion Program
-	+ [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/192216-*/) 
-	+ [GitHub](https://github.com/net-lisias-ksp/TweakScaleCompanion)
+	+ [GitHub](https://github.com/net-lisias-ksp/TweakScale)
