@@ -23,6 +23,11 @@ Adds (up to date) TweakScale /L patches for many stand alone Add'Ons related to 
 
 **TweakScale Companion Rockets** adds (up to date) [TweakScale /L](https://forum.kerbalspaceprogram.com/index.php?/topic/179030-*/) support for the following Add'Ons:
 
+* Arc Aerospace's Wyvern
+	+ [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/165224-13-wyvern-an-advanced-5-kerbal-crew-capsule/&)
+	+ [DropBox](https://drive.google.com/open?id=0B3KjWA5ZuxhrZmcydDhseE0xVzQ)
+	+ Possible new Maintainer
+		- [GitHub](https://github.com/StoneBlue/ArcAerospace-Wyvern/releases) possible new Maintainer, for KSP >= 1.4
 * RealEngines
 	+ [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/154624-*/)
 	+ [SpaceDock](https://spacedock.info/mod/1212/RealEngines)
