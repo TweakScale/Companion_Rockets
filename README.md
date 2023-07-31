@@ -5,18 +5,18 @@ Adds (up to date) TweakScale /L patches for many stand alone Add'Ons related to 
 
 ## In a Hurry
 
-* [Source](https://github.com/net-lisias-ksp/TweakScaleCompanion_Rockets)
-	+ [Issue Tracker](https://github.com/net-lisias-ksp/TweakScaleCompanion_Rockets/issues)
+* [Source](https://github.com/TweakScale/Companion_Rockets)
+	+ [Issue Tracker](https://github.com/TweakScale/Companion_Rockets/issues)
 * Documentation
 	+ [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/192216-tweakscale-companion-program/)
-	+ [Project's README](https://github.com/net-lisias-ksp/TweakScaleCompanion_Rockets/blob/master/README.md)
-	+ [Install Instructions](https://github.com/net-lisias-ksp/TweakScaleCompanion_Rockets/blob/master/INSTALL.md)
+	+ [Project's README](https://github.com/TweakScale/Companion_Rockets/blob/master/README.md)
+	+ [Install Instructions](https://github.com/TweakScale/Companion_Rockets/blob/master/INSTALL.md)
 	+ [Change Log](./CHANGE_LOG.md)
 	+ [Known Issues](./KNOWN_ISSUES.md)
 * Official Distribution Sites:
-	+ [Source and Binaries](https://github.com/net-lisias-ksp/TweakScaleCompanion_Rockets) on GitHub.
-	+ [Latest Release](https://github.com/net-lisias-ksp/TweakScaleCompanion_Rockets/releases)
-		- [Binaries](https://github.com/net-lisias-ksp/TweakScaleCompanion_Rockets/Archive)
+	+ [Source and Binaries](https://github.com/TweakScale/Companion_Rockets) on GitHub.
+	+ [Latest Release](https://github.com/TweakScale/Companion_Rockets/releases)
+		- [Binaries](https://github.com/TweakScale/Companion_Rockets/Archive)
 
 
 ## Description
@@ -78,4 +78,4 @@ See [NOTICE](./NOTICE) for further copyright and trademarks notices.
 	+ [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/179030-*/)
 	+ [CurseForge](https://kerbal.curseforge.com/projects/tweakscale)
 	+ [SpaceDock](https://spacedock.info/mod/127/TweakScale)
-	+ [GitHub](https://github.com/net-lisias-ksp/TweakScale)
+	+ [GitHub](https://github.com/TweakScale/TweakScale)
