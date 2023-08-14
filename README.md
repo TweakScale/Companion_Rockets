@@ -24,13 +24,7 @@ Adds (up to date) TweakScale /L patches for many stand alone Add'Ons related to 
 **TweakScale Companion Rockets** adds (up to date) [TweakScale /L](https://forum.kerbalspaceprogram.com/index.php?/topic/179030-*/) support for the following Add'Ons:
 
 * Arc Aerospace's Wyvern
-	+ [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/165224-13-wyvern-an-advanced-5-kerbal-crew-capsule/&)
-	+ [DropBox](https://drive.google.com/open?id=0B3KjWA5ZuxhrZmcydDhseE0xVzQ)
-	+ Possible new Maintainer
-		- [GitHub](https://github.com/StoneBlue/ArcAerospace-Wyvern/releases) possible new Maintainer, for KSP >= 1.4
 * RealEngines
-	+ [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/154624-*/)
-	+ [SpaceDock](https://spacedock.info/mod/1212/RealEngines)
 
 And more to come!
 
@@ -61,7 +55,8 @@ Detailed installation instructions are now on its own file (see the [In a Hurry]
 			- You recognize and respect any trademarks
 			- You don't impersonate the authors, neither redistribute a derivative that could be misrepresented as theirs.
 			- You credit the author and republish the copyright notices on your works where the work is used.
-			- You relicense (and fully comply) your works using GPL 2.0 (or later)
+			- You relicense (and fully comply) your works using GPL 2.0
+				- Please note that upgrading the license to GPLv3 **IS NOT ALLOWED** for this work, as the author **DID NOT** added the "or (at your option) any later version" on the license.
 			- You don't mix your work with GPL incompatible works.
 	+ If by some reason the GPL would be invalid for you, rest assured that you still retain the right to Use the Work under SKL 1.0.
 
@@ -79,3 +74,11 @@ See [NOTICE](./NOTICE) for further copyright and trademarks notices.
 	+ [CurseForge](https://kerbal.curseforge.com/projects/tweakscale)
 	+ [SpaceDock](https://spacedock.info/mod/127/TweakScale)
 	+ [GitHub](https://github.com/TweakScale/TweakScale)
+* Arc Aerospace's Wyvern
+	+ [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/165224-13-wyvern-an-advanced-5-kerbal-crew-capsule/&)
+	+ [DropBox](https://drive.google.com/open?id=0B3KjWA5ZuxhrZmcydDhseE0xVzQ)
+	+ Possible new Maintainer
+		- [GitHub](https://github.com/StoneBlue/ArcAerospace-Wyvern/releases) possible new Maintainer, for KSP >= 1.4
+* RealEngines
+	+ [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/154624-*/)
+	+ [SpaceDock](https://spacedock.info/mod/1212/RealEngines)
